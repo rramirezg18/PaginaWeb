@@ -58,3 +58,11 @@ h3{
     transform: scale(1.05);
     transition: transform 0.2s
 }
+
+nav {
+    background-color: bisque;
+    font-size: medium;
+    text-align: center;
+    margin: 0;
+    padding: 5px;
+}
